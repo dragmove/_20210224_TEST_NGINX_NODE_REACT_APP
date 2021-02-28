@@ -4,6 +4,12 @@
 
 - Docker compose using nginx proxy container + node.js back-end container + mysql container + (nginx static server + react front-end container)
 
+## Run
+
+```javascript
+sudo docker-compose up --build
+```
+
 ## Contact
 
 - @Website : https://dragmove-df96f.web.app/
